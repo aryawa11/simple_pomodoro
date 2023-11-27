@@ -1,6 +1,6 @@
 # simple_pomodoro
 
-A new Flutter project.
+Aplikasi simple pomodoro menggunakan flutter
 
 ## Getting Started
 
